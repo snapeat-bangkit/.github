@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/assets/logo.png" width="100" height="100"><br>
+    <img src="/assets/logo.jpeg" width="100" height="100"><br>
     <i>SnapEat!.</i>
     <i>Snap it! Then eat!</i>
 </div>
